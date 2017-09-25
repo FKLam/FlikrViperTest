@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrViperTest/PhotoSearch/Module/PhotoViewController.swift"
+            timestampString = "527953175.348144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "photoItemCell(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlikrViperTest.PhotoViewController.photoItemCell (__ObjC.UICollectionView, cellForItemAt : Foundation.IndexPath) -&gt; __ObjC.UICollectionViewCell"
+                  moduleName = "FlikrViperTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amglfk/Desktop/iOS%20VIPER%20Architecture/FlikrViperTest/FlikrViperTest/PhotoSearch/Module/PhotoViewController.swift"
+                  timestampString = "527947626.110809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "874">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlikrViperTest.PhotoViewController.(photoItemCell (__ObjC.UICollectionView, cellForItemAt : Foundation.IndexPath) -&gt; __ObjC.UICollectionViewCell).(closure #1)"
+                  moduleName = "FlikrViperTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amglfk/Desktop/iOS%20VIPER%20Architecture/FlikrViperTest/FlikrViperTest/PhotoSearch/Module/PhotoViewController.swift"
+                  timestampString = "527947626.113393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
